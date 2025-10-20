@@ -36,7 +36,7 @@ This repository contains **all released versions** of Raven Reloaded for histori
 
 <div align="center">
   <a href="https://github.com/RavenReloaded/version-archive/releases" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=View All Releases&logo=github&label=Download JAR Files&color=28a745&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="download logo"  />
+    <img src="https://img.shields.io/badge/Download-JAR%20Files-green?style=for-the-badge&logo=github" height="35" alt="download logo"  />
   </a>
 </div>
 
