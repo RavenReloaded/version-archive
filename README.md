@@ -27,7 +27,8 @@
 This repository contains **all released versions** of Raven Reloaded for historical reference, backup purposes, and easy access to previous releases.
 
 ### 📋 Available Versions
-
+- **v1.4**
+- **v1.3**
 - **v1.2** - Latest version with enhanced modules and UI improvements
 - **v1.1** - Major UI redesigns and new HUD modules  
 - **v1.0** - Initial public release with core functionality
